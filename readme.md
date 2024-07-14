@@ -53,6 +53,3 @@ The model was trained using scikit-learn's `LogisticRegression` class, with the 
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
